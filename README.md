@@ -20,7 +20,7 @@
 | Dự án | Mô tả |
 |---|---|
 | **genshin-ai-agent** | CLI phân tích tài khoản Genshin Impact qua Enka Network + Gemini, xuất báo cáo HTML (build char, artifact, coaching Theater/Abyss) |
-| **genshin-giftcode-notifier** | Bot tự động fetch gift code Genshin, dedupe, gửi Discord embed qua webhook |
+| **discordXgenshin-giftcode-notifier** | Bot tự động fetch gift code Genshin, dedupe, gửi Discord embed qua webhook |
 | **telegram-reality-bot** | Bot Telegram gửi quote tiếng Việt bằng Gemini, có chấm điểm chất lượng & dedupe semantic |
 | **didauhp** | PWA tra cứu thông tin dân sinh cho Hải Phòng (Flask) |
 | **export-import-microsoft-todo** | Tool backup/khôi phục Microsoft To Do qua Graph API + MSAL device code flow |
